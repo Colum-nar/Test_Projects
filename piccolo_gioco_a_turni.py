@@ -1,5 +1,5 @@
 
-#verifica delle prime 150 ore di Python per game design
+
 
 # ----- 
 #un mostro ha rapito la principessa
